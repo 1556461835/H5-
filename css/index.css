@@ -1,0 +1,1001 @@
+.swiper-container{
+	height: 100vh;
+	width: 100vw;
+}
+.sid{
+	background: url(../img/bg.png)no-repeat center center/100% 100%;
+	position: relative;
+}
+.sid .title{
+	width: 1.66rem;
+	height: 1.2rem;
+	margin-left: 0.59rem;
+	margin-top: 0.7rem;
+	float: left;
+	position: absolute;
+	z-index: 1;
+}
+.sid .title img{
+	width: 1.66rem;
+	height: 1.2rem;
+}
+.sid .hert{
+	width: 1.53rem;
+	height: 1.5rem;
+	margin-top: 0.23rem;
+	margin-right: 0.11rem;
+	float: right;
+}
+.sid .hert img{
+	width: 100%;
+	height: 100%;
+}
+.sid .btn{
+	background: url(../img/yuan.png) center center/100% 100%;
+	width: 7.5rem;
+	height: 8.5rem;
+	position: absolute;
+	top: 1.9rem;
+}
+.sid .shoesbg{
+	background: url(../img/shosbg.png)no-repeat center center/100% 100%;
+	width: 5.57rem;
+	height: 5.7rem;
+	position: absolute;
+	top: 3.2rem;
+	left: 0.9rem;
+}
+.sid .shoes{
+	width: 7.5rem;
+	height: 13.34rem;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.shoes img{
+	width:100%;
+	height: 100%;
+}
+.sid .line{
+	width: 0.5rem;
+	height: 0.1rem;
+	background: #f9461f;
+	margin-left: 0.6rem;
+	margin-top: 9.2rem;
+}
+.sid .name{
+	width: 1.2rem;
+	height: 0.4rem;
+	font-family: HelveticaNeue-BoldItalic;
+	font-size: 30px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	margin-left: 0.6rem;
+	margin-top: 0.5rem;
+}
+.sid .name-n{
+	width: 2.8rem;
+	height: 0.4rem;
+	font-family: MicrosoftYaHei;
+	font-size: 0.4rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	margin-left: 0.6rem;
+	margin-top: 0.2rem;
+}
+.sid .jiagebox{
+	width: 100%;
+	overflow: hidden;
+	margin-top: 0.7rem;
+}
+.sid .jiagebox .le{
+	width: 1.3rem;
+	height: 0.7rem;
+	margin-left: 0.6rem;
+	float: left;
+}
+.sid .jiagebox .le .le-top{
+	height: 0.4rem;
+	
+}
+.jiagebox .le .le-top .le-top-le{
+	width: 0.4rem;
+	height: 0.4rem;
+	float: left;
+	color: #f9461f;
+	font-size: 20px;
+}
+.jiagebox .le .le-top .le-top-rg{
+	width: 0.1rem;
+	height: 0.1rem;
+	float: left;
+	color: #f9461f;
+}
+.jiagebox .le .le-but{
+	width: 1.3rem;
+	height: 0.2rem;
+	font-family: MicrosoftYaHei;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #a1a1a1;
+}
+.sid .jiagebox .rg{
+	width: 1.9rem;
+	height: 0.7rem;
+	float: right;
+	margin-right: 0.6rem;
+	position: relative;
+}
+.jiagebox .rg .rg-le{
+	width: 0.2rem;
+	height: 0.2rem;
+	font-family: AdobeHeitiStd-Regular;
+	font-size: 0.2rem;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0rem;
+	color: #828282;
+	float: left;
+	position: absolute;
+	top: 0.5rem;
+}
+.jiagebox .rg .rg-rg{
+	width: 1.7rem;
+	height: 0.7rem;
+	float: right;
+	font-size: 0.7rem;
+	color: #f9461f;
+}
+.next{
+	width: 0.8rem;
+	height: 0.8rem;
+	position: fixed;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	bottom: 0.2rem;
+}
+.next img{
+	width: 0.8rem;
+	height: 0.8rem;
+}
+.two{
+	background: url(../img/two.png)no-repeat center center/100% 100%;
+	position: relative;
+}
+.two .title{
+	width: 1.66rem;
+	height: 1.2rem;
+	margin-left: 0.59rem;
+	margin-top: 0.7rem;
+	float: left;
+}
+.two .title img{
+	width: 1.66rem;
+	height: 1.2rem;
+}
+.two .two-shoes{
+	margin-top: 3.3rem;
+	margin-left: 1.2rem;
+	width: 5.2rem;
+	height: 3.9rem;
+}
+.two .two-shoes img{
+	width: 100%;
+	height: 100%;
+}
+.two .two-bg{
+	background: url(../img/two-yuanjiao.png)no-repeat center center/100% 100%;
+	width: 6.9rem;
+	height: 4.7rem;
+	margin-left: 0.3rem;
+	position: absolute;
+	bottom: 0;
+}
+.two .two-bg .next{
+	position: absolute;
+	margin: 0 auto;
+	top: -0.3rem;
+}
+.two .two-bg .two-bg-box{
+	width: 5rem;
+	height: 2.6rem;
+	margin-top: 0.9rem;
+	margin-left: 0.3rem;
+	position: relative;
+}
+.two .two-bg .two-bg-box .line{
+	width: 0.5rem;
+	height: 0.1rem;
+	margin-top: 1rem;
+	background-color: #f9461f;
+}
+.two .two-bg .two-bg-box .wenzi-title{
+	width: 3.6rem;
+	height: 0.4rem;
+	font-family: MicrosoftYaHei;
+	font-size: 0.4rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #828282;
+	margin-top: 0.5rem;
+}
+.two .two-bg .two-bg-box .neirong{
+	width: 5rem;
+	height: 0.5rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.5rem;
+	font-weight: bold;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	position: absolute;
+	top: 1.3rem;
+}
+.two .two-bg .two-bg-box .En{
+	width: 4.1rem;
+	height: 0.5rem;
+	font-family: MicrosoftYaHei;
+	font-size: 0.2rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #828282;
+	position: absolute;
+	top: 2.2rem;
+}
+.three{
+	position: relative;
+	background: url(../img/three-juxing.png)no-repeat center center/100% 100%;
+}
+.three .title{
+	width: 1.66rem;
+	height: 1.2rem;
+	margin-left: 0.59rem;
+	margin-top: 0.7rem;
+	float: left;
+}
+.three .title img{
+	width: 1.66rem;
+	height: 1.2rem;
+}
+.three-box{
+	width: 5.2rem;
+	height: 3.1rem;
+	position: absolute;
+	top: 2.8rem;
+	left: 0.6rem;
+	z-index: 1;
+}
+.three-box .line{
+	width: 0.5rem;
+	height: 0.1rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 0rem;
+}
+.three-box .three-title{
+	width: 2rem;
+	height: 0.5rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.5rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	position: absolute;
+	top: 0.7rem;
+}
+.three-box .three-neirong{
+	width: 5.2rem;
+	height: 1.4rem;
+	font-family: MicrosoftYaHei;
+	font-size: 0.4rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.5rem;
+	letter-spacing: 0rem;
+	color: #828282;
+	position: absolute;
+	top: 1.7rem;
+}
+.three .three-bg{
+	background: url(../img/three-yuanjiao.png)no-repeat center center/100% 100%;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	width: 6.4rem;
+	height: 10.6rem;
+}
+.three .three-bg img{
+	width: 5.5rem;
+	height: 7.2rem;
+	position: absolute;
+	bottom: 0.6rem;
+	left: 1rem;
+}
+.three .next{
+	width: 0.8rem;
+	height: 0.8rem;
+	position: absolute;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	bottom: 0.6rem;
+}
+.three .next img{
+	width: 0.8rem;
+	height: 0.8rem;
+}
+.four{
+	position: relative;
+}
+.four .title{
+	width: 1.66rem;
+	height: 1.2rem;
+	margin-left: 0.59rem;
+	margin-top: 0.7rem;
+	float: left;
+	position: absolute;
+	z-index: 1;
+}
+.four .title img{
+	width: 1.66rem;
+	height: 1.2rem;
+}
+.four .top-bg{
+	width: 7.5rem;
+	height: 6.8rem;
+	background: url(../img/four-bg.png)no-repeat center center/100% 100%;
+	position: absolute;
+	top: 0;
+}
+.four .top-bg .four-shoes{
+	width: 6.3rem;
+	height: 3.1rem;
+	margin: 0 auto;
+	position: absolute;
+	bottom: -0.7rem;
+	left: 0;
+	right: 0;
+}
+.four .top-bg .four-shoes img{
+	width: 6.3rem;
+	height: 3.1rem;
+	opacity: 0.3;
+	background-image: linear-gradient(180deg, 
+		#ffffff 0%, 
+		#ffffff 100%);
+}
+.four .four-box{
+	position: absolute;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	width: 4.4rem;
+	height: 2.4rem;
+	top: 8.7rem;
+}
+.four .four-box .line{
+	width: 0.5rem;
+	height: 0.1rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 0rem;
+	margin: 0 auto;
+}
+.four .four-box .four-title{
+	width: 2rem;
+	height: 0.5rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.5rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	margin: 0.5rem auto;
+}
+.four .four-box .four-neirong{
+	width: 4.4rem;
+	height: 0.9rem;
+	font-family: MicrosoftYaHei;
+	font-size: 0.4rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.5rem;
+	letter-spacing: 0rem;
+	color: #828282;
+}
+.four .next{
+	width: 0.7rem;
+	height: 0.7rem;
+	position: absolute;
+	top: 12.1rem;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+}
+.five{
+	background: url(../img/five-bg.png)no-repeat center center/100% 100%;
+	position: relative;
+}
+.five .title{
+	width: 1.66rem;
+	height: 1.2rem;
+	margin-left: 0.59rem;
+	margin-top: 0.7rem;
+	float: left;
+}
+.five .title img{
+	width: 1.66rem;
+	height: 1.2rem;
+}
+.five .five-bg{
+	width: 4.4rem;
+	height: 2.9rem;
+	position: absolute;
+	top: 8.1rem;
+	right: 0.6rem;
+}
+.five .five-bg .line{
+	width: 0.5rem;
+	height: 0.1rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 0rem;
+	float: right;
+}
+.five .five-bg .title{
+	width: 2rem;
+	height: 0.5rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.5rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	position: absolute;
+	right: 0;
+}
+.five .five-bg .five-neirong{
+	width: 4.4rem;
+	height: 1.4rem;
+	font-family: MicrosoftYaHei;
+	font-size: 0.4rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.5rem;
+	letter-spacing: 0rem;
+	color: #828282;
+	position: absolute;
+	right: 0;
+	top: 1.6rem;
+}
+.five .next{
+	width: 0.7rem;
+	height: 0.7rem;
+	position: absolute;
+	top: 12.1rem;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+}
+.six{
+	background: url(../img/six-bg.png)no-repeat center center/100% 100%;
+	position: relative;
+}
+.six .title{
+	width: 1.66rem;
+	height: 1.2rem;
+	margin-left: 0.59rem;
+	margin-top: 0.7rem;
+	float: left;
+}
+.six .title img{
+	width: 1.66rem;
+	height: 1.2rem;
+}
+.six .six-box{
+	width: 2rem;
+	height: 1rem;
+	position: absolute;
+	top: 0.7rem;
+	right: 0.6rem;
+}
+.six .six-box .line{
+	width: 0.5rem;
+	height: 0.1rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 2px;
+	float: right;
+}
+.six .six-box .six-title{
+	width: 2rem;
+	height: 0.5rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.5rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	margin-top: 0.4rem;
+}
+.six .six-bg1{
+	width: 6.9rem;
+	height: 4.6rem;
+	background-image: linear-gradient(50deg, 
+		#ededed 0%, 
+		#f3f3f3 100%);
+	border-radius: 0.2rem;
+	background: url(../img/six-bg1.png)no-repeat center center/100% 100%;
+	top: 2.8rem;
+	position: absolute;
+	left: 0.3rem;
+}
+.six .six-bg1 img{
+	width: 3.8rem;
+	height: 2.9rem;
+	margin-left: 1.7rem;
+	margin-top: 0.4rem;
+}
+.six .six-bg1 h2{
+	width: 1.2rem;
+	height: 0.4rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.4rem;
+	font-weight: bold;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	margin-left: 2.9rem;
+	margin-top: 0.2rem;
+}
+.six .six-bg2{
+	width: 6.9rem;
+	height: 4.6rem;
+	background-image: linear-gradient(50deg, 
+		#ededed 0%, 
+		#f3f3f3 100%);
+	border-radius: 0.2rem;
+	background: url(../img/six-bg2.png) center center/100% 100%;
+	top: 7.6rem;
+	position: absolute;
+	left: 0.3rem;
+}
+.six .six-bg2 img{
+	width: 3.8rem;
+	height: 2.9rem;
+	margin-left: 1.7rem;
+	margin-top: 0.4rem;
+}
+.six .six-bg2 h2{
+	width: 1.2rem;
+	height: 0.4rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.4rem;
+	font-weight: bold;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	margin-left: 2.9rem;
+	margin-top: 0.2rem;
+}
+.six .next{
+	width: 0.7rem;
+	height: 0.7rem;
+	position: absolute;
+	top: 12.1rem;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+}
+.seven{
+	position: relative;
+	background: #f2f2f2;
+}
+.seven .title{
+	width: 1.66rem;
+	height: 1.2rem;
+	margin-left: 0.59rem;
+	margin-top: 0.7rem;
+	float: left;
+}
+.seven .title img{
+	width: 1.66rem;
+	height: 1.2rem;
+}
+.seven .seven-box{
+	width: 2rem;
+	height: 1rem;
+	position: absolute;
+	top: 0.7rem;
+	right: 0.6rem;
+}
+.seven .seven-box .line{
+	width: 0.5rem;
+	height: 0.1rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 2px;
+	float: right;
+}
+.seven .seven-box .seven-title{
+	width: 2rem;
+	height: 0.5rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.5rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	margin-top: 0.4rem;
+}
+.seven .canshu{
+	width: 6.3rem;
+	height: 3.2rem;
+	position: absolute;
+	top: 3.5rem;
+	left: 0.6rem;
+}
+.seven .seven-bg{
+	background: url(../img/sven-juxing.png)no-repeat center center/100% 100%;
+	position: absolute;
+	top: 7.5rem;
+	left: 0.3rem;
+	width: 6.9rem;
+	height: 4.1rem;
+}
+.seven .seven-bg h2{
+	width: 1.5rem;
+	height: 0.3rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.3rem;
+	font-weight: bold;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	margin-left: 0.3rem;
+	margin-top: 0.4rem;
+}
+.seven .item{
+	width: 6.3rem;
+	height: 0.8rem;
+	margin-left: 0.3rem;
+}
+.seven .seven-bg-box1{
+	position: absolute;
+	top: 1.5rem;
+}
+.seven .seven-bg-box1 .seven-bg-box1-top{
+	height: 0.2rem;
+	font-family: MicrosoftYaHei;
+	font-size: 0.2rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #828282;
+}
+.seven .seven-bg-box1 .seven-bg-box1-but{
+	margin-top: 0.2rem;
+	height: 0.5rem;
+	width: 6.3rem;
+}
+.seven .seven-bg-box1 .seven-bg-box1-but .seven-le{
+	width: 2rem;
+	height: 0.5rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 0.2rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.2rem;
+	font-weight: normal;
+	line-height: 0.5rem;
+	color: #ffffff;
+	text-align: center;
+	float: left;
+}
+.seven .seven-bg-box1 .seven-bg-box1-but .seven-mil{
+	width: 2rem;
+	height: 0.5rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 0.2rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.2rem;
+	font-weight: 400;
+	line-height: 0.5rem;
+	letter-spacing: 0rem;
+	color: #ffffff;
+	text-align: center;
+	margin-left: 7px;
+	float: left;
+}
+.seven .seven-bg-box1 .seven-bg-box1-but .seven-rg{
+	width: 2rem;
+	height: 0.5rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 0.2rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.2rem;
+	font-weight: 400;
+	line-height: 0.5rem;
+	letter-spacing: 0rem;
+	color: #ffffff;
+	text-align: center;
+	margin-left: 7px;
+	float: left;
+}
+.seven .seven-bg-box2{
+	position: absolute;
+	top: 2.6rem;
+}
+.seven .seven-bg-box2 .seven-bg-box1-top{
+	height: 0.2rem;
+	font-family: MicrosoftYaHei;
+	font-size: 0.2rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #828282;
+}
+.seven .seven-bg-box2 .seven-bg-box1-but{
+	margin-top: 0.2rem;
+	height: 0.5rem;
+	width: 6.3rem;
+}
+.seven .seven-bg-box2 .seven-bg-box1-but .seven-le{
+	width: 2rem;
+	height: 0.5rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 0.2rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.2rem;
+	font-weight: normal;
+	line-height: 0.5rem;
+	color: #ffffff;
+	text-align: center;
+	float: left;
+}
+.seven .seven-bg-box2 .seven-bg-box1-but .seven-mil{
+	width: 2rem;
+	height: 0.5rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 0.2rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.2rem;
+	font-weight: 400;
+	line-height: 0.5rem;
+	letter-spacing: 0rem;
+	color: #ffffff;
+	text-align: center;
+	margin-left: 7px;
+	float: left;
+}
+.seven .seven-bg-box2 .seven-bg-box1-but .seven-rg{
+	width: 2rem;
+	height: 0.5rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 0.2rem;
+	font-family: MicrosoftYaHei-Bold;
+	font-size: 0.2rem;
+	font-weight: 400;
+	line-height: 0.5rem;
+	letter-spacing: 0rem;
+	color: #ffffff;
+	text-align: center;
+	margin-left: 7px;
+	float: left;
+}
+.seven .next{
+	width: 0.7rem;
+	height: 0.7rem;
+	position: absolute;
+	top: 12.1rem;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+}
+.eight{
+	position: relative;
+}
+.eight .title{
+	width: 1.66rem;
+	height: 1.2rem;
+	margin-left: 0.59rem;
+	margin-top: 0.7rem;
+	float: left;
+}
+.eight .title img{
+	width: 1.66rem;
+	height: 1.2rem;
+}
+.eight .eight-bg{
+	background: url(../img/8_01.png)no-repeat center center/100% 100%;
+	width: 7.5rem;
+	height: 11.81rem;
+	position: relative;
+}
+.eight .eight-bg .eight-bg-top{
+	width: 5.8rem;
+	height: 5.5rem;
+	position: absolute;
+	left: 1rem;
+	top: 1.7rem;
+}
+.eight .eight-bg .eight-bg-top .lunbo{
+	width: 5.8rem;
+	height: 5.5rem;
+}
+.eight .eight-bg .eight-bg-top .lunbo .lunboTop{
+	width: 5.8rem;
+	height: 4.5rem;
+}
+.eight .eight-bg .eight-bg-top .lunbo .lunboTop img{
+	width: 5.8rem;
+	height: 4.5rem;
+}
+.eight .eight-btn{
+	background: url(../img/8_02.png)no-repeat center center/100% 100%;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 7.5rem;
+	height: 5.6rem;
+}
+.eight .eight-btn .eight-btn-top{
+	width: 3rem;
+	height: 1.5rem;
+	margin-top: 0.7rem;
+	margin-left: 0.6rem;
+}
+.eight .eight-btn .eight-btn-top .line{
+	width: 0.5rem;
+	height: 0.1rem;
+	background-image: linear-gradient(0deg, 
+		#fc666e 0%, 
+		#f9461f 100%);
+	border-radius: 0rem;
+}
+.eight .eight-btn .eight-btn-top .eight-title{
+	width: 1.2rem;
+	height: 0.4rem;
+	font-family: HelveticaNeue-BoldItalic;
+	font-size: 0.5rem;
+	font-weight: 400;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	position: absolute;
+	top: 1.2rem;
+}
+.eight .eight-btn .eight-btn-top .eight-neirong{
+	height: 0.3rem;
+	font-family: HelveticaNeue-Light;
+	font-size: 0.4rem;
+	font-weight: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+	position: absolute;
+	top: 1.9rem;
+}
+.eight .eight-btn .eight-price{
+	width: 1.9rem;
+	height: 0.7rem;
+	position: absolute;
+	top: 1.5rem;
+	right: 0.6rem;
+}
+.eight .eight-btn .eight-price .fuhao{
+	width: 0.2rem;
+	height: 0.2rem;
+	font-family: AdobeHeitiStd-Regular;
+	font-size: 0.2rem;
+	color: #828282;
+	float: left;
+	margin-top: 0.5rem;
+}
+.eight .eight-btn .eight-price .jiage{
+	width: 1.7rem;
+	height: 0.7rem;
+	color: #f9461f;
+	float: left;
+	font-size: 0.7rem;
+}
+.eight .eight-btn .size{
+	width: 6.9rem;
+	height: 0.7rem;
+	position: absolute;
+	top: 3.1rem;
+	left: 0.6rem;
+}
+.eight .eight-btn .size .size-top{
+	height: 0.2rem;
+	font-family: MicrosoftYaHei;
+	font-size: 0.2rem;
+	font-weight: normal;
+	font-stretch: normal;
+	line-height: 0.3rem;
+	letter-spacing: 0rem;
+	color: #434343;
+}
+.eight .eight-btn .size ul{
+	width: 100%;
+	height: .5rem;
+	display:flex;
+	overflow-x: auto;
+	margin-top: 0.2rem;
+}
+.eight .eight-btn ul::-webkit-scrollbar{
+	width: 0;
+	height: 0;
+}
+.eight .eight-btn .size li{
+	width: .5rem;
+	height: .5rem;
+	font-size: .3rem;
+	line-height: .5rem;
+	color:#434343;
+	margin-right: .50rem;
+}
+.eight .red-hert{
+	width: 0.9rem;
+	height: 0.9rem;
+	position: absolute;
+	left: 0.6rem;
+	top: 12.1rem;
+}
+.eight .red-hert img{
+	width: 0.9rem;
+	height: 0.9rem;
+}
+.eight .limagoumai{
+	width: 3.3rem;
+	height: 0.9rem;
+	position: absolute;
+	top: 12.1rem;
+	right: 2.1rem;
+}
+.eight .limagoumai img{
+	width: 3.3rem;
+	height: 0.9rem;
+}
