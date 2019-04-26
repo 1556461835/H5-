@@ -66,12 +66,8 @@
 .sid .name{
 	width: 1.2rem;
 	height: 0.4rem;
-	font-family: HelveticaNeue-BoldItalic;
 	font-size: 30px;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	margin-left: 0.6rem;
 	margin-top: 0.5rem;
@@ -79,12 +75,8 @@
 .sid .name-n{
 	width: 2.8rem;
 	height: 0.4rem;
-	font-family: MicrosoftYaHei;
 	font-size: 0.4rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	margin-left: 0.6rem;
 	margin-top: 0.2rem;
@@ -120,12 +112,8 @@
 .jiagebox .le .le-but{
 	width: 1.3rem;
 	height: 0.2rem;
-	font-family: MicrosoftYaHei;
 	font-size: 12px;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #a1a1a1;
 }
 .sid .jiagebox .rg{
@@ -138,11 +126,7 @@
 .jiagebox .rg .rg-le{
 	width: 0.2rem;
 	height: 0.2rem;
-	font-family: AdobeHeitiStd-Regular;
 	font-size: 0.2rem;
-	font-weight: normal;
-	font-stretch: normal;
-	letter-spacing: 0rem;
 	color: #828282;
 	float: left;
 	position: absolute;
@@ -222,24 +206,17 @@
 .two .two-bg .two-bg-box .wenzi-title{
 	width: 3.6rem;
 	height: 0.4rem;
-	font-family: MicrosoftYaHei;
 	font-size: 0.4rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #828282;
 	margin-top: 0.5rem;
 }
 .two .two-bg .two-bg-box .neirong{
 	width: 5rem;
 	height: 0.5rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.5rem;
 	font-weight: bold;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	position: absolute;
 	top: 1.3rem;
@@ -247,12 +224,8 @@
 .two .two-bg .two-bg-box .En{
 	width: 4.1rem;
 	height: 0.5rem;
-	font-family: MicrosoftYaHei;
 	font-size: 0.2rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #828282;
 	position: absolute;
 	top: 2.2rem;
@@ -291,12 +264,8 @@
 .three-box .three-title{
 	width: 2rem;
 	height: 0.5rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.5rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	position: absolute;
 	top: 0.7rem;
@@ -304,12 +273,8 @@
 .three-box .three-neirong{
 	width: 5.2rem;
 	height: 1.4rem;
-	font-family: MicrosoftYaHei;
 	font-size: 0.4rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.5rem;
-	letter-spacing: 0rem;
 	color: #828282;
 	position: absolute;
 	top: 1.7rem;
@@ -403,12 +368,8 @@
 .four .four-box .four-title{
 	width: 2rem;
 	height: 0.5rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.5rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	margin: 0.5rem auto;
 }
@@ -417,10 +378,7 @@
 	height: 0.9rem;
 	font-family: MicrosoftYaHei;
 	font-size: 0.4rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.5rem;
-	letter-spacing: 0rem;
 	color: #828282;
 }
 .four .next{
@@ -466,12 +424,8 @@
 .five .five-bg .title{
 	width: 2rem;
 	height: 0.5rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.5rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	position: absolute;
 	right: 0;
@@ -481,10 +435,7 @@
 	height: 1.4rem;
 	font-family: MicrosoftYaHei;
 	font-size: 0.4rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.5rem;
-	letter-spacing: 0rem;
 	color: #828282;
 	position: absolute;
 	right: 0;
@@ -533,12 +484,8 @@
 .six .six-box .six-title{
 	width: 2rem;
 	height: 0.5rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.5rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	margin-top: 0.4rem;
 }
@@ -563,12 +510,9 @@
 .six .six-bg1 h2{
 	width: 1.2rem;
 	height: 0.4rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.4rem;
 	font-weight: bold;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	margin-left: 2.9rem;
 	margin-top: 0.2rem;
@@ -594,12 +538,9 @@
 .six .six-bg2 h2{
 	width: 1.2rem;
 	height: 0.4rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.4rem;
 	font-weight: bold;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	margin-left: 2.9rem;
 	margin-top: 0.2rem;
@@ -647,12 +588,8 @@
 .seven .seven-box .seven-title{
 	width: 2rem;
 	height: 0.5rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.5rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	margin-top: 0.4rem;
 }
@@ -674,12 +611,9 @@
 .seven .seven-bg h2{
 	width: 1.5rem;
 	height: 0.3rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.3rem;
 	font-weight: bold;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	margin-left: 0.3rem;
 	margin-top: 0.4rem;
@@ -697,10 +631,7 @@
 	height: 0.2rem;
 	font-family: MicrosoftYaHei;
 	font-size: 0.2rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #828282;
 }
 .seven .seven-bg-box1 .seven-bg-box1-but{
@@ -715,7 +646,6 @@
 		#fc666e 0%, 
 		#f9461f 100%);
 	border-radius: 0.2rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.2rem;
 	font-weight: normal;
 	line-height: 0.5rem;
@@ -726,16 +656,14 @@
 .seven .seven-bg-box1 .seven-bg-box1-but .seven-mil{
 	width: 2rem;
 	height: 0.5rem;
-	background-image: linear-gradient(0deg, 
-		#fc666e 0%, 
-		#f9461f 100%);
+	background-image: linear-gradient(45deg, 
+		#dfdfdf 0%, 
+		#c2c2c2 100%);
 	border-radius: 0.2rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.2rem;
 	font-weight: 400;
 	line-height: 0.5rem;
-	letter-spacing: 0rem;
-	color: #ffffff;
+	color: #434343;
 	text-align: center;
 	margin-left: 7px;
 	float: left;
@@ -743,16 +671,14 @@
 .seven .seven-bg-box1 .seven-bg-box1-but .seven-rg{
 	width: 2rem;
 	height: 0.5rem;
-	background-image: linear-gradient(0deg, 
-		#fc666e 0%, 
-		#f9461f 100%);
+	background-image: linear-gradient(45deg, 
+		#dfdfdf 0%, 
+		#c2c2c2 100%);
 	border-radius: 0.2rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.2rem;
 	font-weight: 400;
 	line-height: 0.5rem;
-	letter-spacing: 0rem;
-	color: #ffffff;
+	color: #434343;
 	text-align: center;
 	margin-left: 7px;
 	float: left;
@@ -765,10 +691,7 @@
 	height: 0.2rem;
 	font-family: MicrosoftYaHei;
 	font-size: 0.2rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #828282;
 }
 .seven .seven-bg-box2 .seven-bg-box1-but{
@@ -779,15 +702,14 @@
 .seven .seven-bg-box2 .seven-bg-box1-but .seven-le{
 	width: 2rem;
 	height: 0.5rem;
-	background-image: linear-gradient(0deg, 
-		#fc666e 0%, 
-		#f9461f 100%);
+	background-image: linear-gradient(45deg, 
+		#dfdfdf 0%, 
+		#c2c2c2 100%);
 	border-radius: 0.2rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.2rem;
 	font-weight: normal;
 	line-height: 0.5rem;
-	color: #ffffff;
+	color: #434343;
 	text-align: center;
 	float: left;
 }
@@ -798,11 +720,9 @@
 		#fc666e 0%, 
 		#f9461f 100%);
 	border-radius: 0.2rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.2rem;
 	font-weight: 400;
 	line-height: 0.5rem;
-	letter-spacing: 0rem;
 	color: #ffffff;
 	text-align: center;
 	margin-left: 7px;
@@ -811,16 +731,14 @@
 .seven .seven-bg-box2 .seven-bg-box1-but .seven-rg{
 	width: 2rem;
 	height: 0.5rem;
-	background-image: linear-gradient(0deg, 
-		#fc666e 0%, 
-		#f9461f 100%);
+	background-image: linear-gradient(45deg, 
+		#dfdfdf 0%, 
+		#c2c2c2 100%);
 	border-radius: 0.2rem;
-	font-family: MicrosoftYaHei-Bold;
 	font-size: 0.2rem;
 	font-weight: 400;
 	line-height: 0.5rem;
-	letter-spacing: 0rem;
-	color: #ffffff;
+	color: #434343;
 	text-align: center;
 	margin-left: 7px;
 	float: left;
@@ -898,22 +816,17 @@
 .eight .eight-btn .eight-btn-top .eight-title{
 	width: 1.2rem;
 	height: 0.4rem;
-	font-family: HelveticaNeue-BoldItalic;
 	font-size: 0.5rem;
 	font-weight: 400;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	position: absolute;
 	top: 1.2rem;
 }
 .eight .eight-btn .eight-btn-top .eight-neirong{
 	height: 0.3rem;
-	font-family: HelveticaNeue-Light;
 	font-size: 0.4rem;
-	font-weight: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 	position: absolute;
 	top: 1.9rem;
@@ -928,7 +841,6 @@
 .eight .eight-btn .eight-price .fuhao{
 	width: 0.2rem;
 	height: 0.2rem;
-	font-family: AdobeHeitiStd-Regular;
 	font-size: 0.2rem;
 	color: #828282;
 	float: left;
@@ -950,12 +862,8 @@
 }
 .eight .eight-btn .size .size-top{
 	height: 0.2rem;
-	font-family: MicrosoftYaHei;
 	font-size: 0.2rem;
-	font-weight: normal;
-	font-stretch: normal;
 	line-height: 0.3rem;
-	letter-spacing: 0rem;
 	color: #434343;
 }
 .eight .eight-btn .size ul{
